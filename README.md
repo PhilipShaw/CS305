@@ -2,7 +2,6 @@
 Repository created to showcase projects and concepts learned in CS305 at Southern New Hampshire University.
 
 ## Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
-
 Artemis Financial is an investment and insurance firm that focuses on creating and managing financial itineraries tailored to its clients’ needs. As the company is transitioning to a digital model, they enlisted our—Global Rain’s—services to fortify their application's network connectivity, check for and rectify vulnerabilities, and offer consultation regarding industry standard best practices for securing data at rest and in motion.   
 
 ## What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
